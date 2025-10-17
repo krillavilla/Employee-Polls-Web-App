@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PollCard matches snapshot 1`] = `
+<div
+  style="border: 1px solid #ddd; padding: 16px; border-radius: 8px; margin-bottom: 12px; background-color: white; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
+>
+  <div
+    style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;"
+  >
+    <img
+      alt="Sarah Edo"
+      height="32"
+      src="https://example.com/avatar.jpg"
+      style="border-radius: 50%;"
+      width="32"
+    />
+    <strong>
+      Sarah Edo
+       asks:
+    </strong>
+  </div>
+  <h4
+    style="margin: 8px 0px; color: rgb(51, 51, 51);"
+  >
+    Would you rather
+  </h4>
+  <p
+    style="color: rgb(102, 102, 102); margin-bottom: 16px;"
+  >
+    ... 
+    Build with JavaScript
+     ... or ... 
+    Build with TypeScript
+     ...
+  </p>
+  <a
+    href="/questions/q1"
+    style="color: rgb(0, 123, 255); text-decoration: none; font-weight: bold;"
+  >
+    View Poll
+  </a>
+</div>
+`;
